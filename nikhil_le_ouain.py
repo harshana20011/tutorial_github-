@@ -1,3 +1,5 @@
+# code from quantpy on youtube 
+
 import pandas as pd
 import datetime as dt
 import yfinance as yf
